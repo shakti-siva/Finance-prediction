@@ -19,7 +19,6 @@ Name	Role	GitHub	Responsibility
 Shakti Siva	Team Lead & ML Engineer	@shakti-siva
 	Data pipeline, model training, repo maintenance
 
-(Add teammates here if this is collaborative)
 
 🛠️ Technology Stack
 
