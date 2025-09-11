@@ -17,13 +17,12 @@ Finance Prediction Platform that combines:
 
 ---
 
-## 👥 Team Members
+## 👥 Developer
 
 | Name | Role | GitHub | Responsibility |
 |---|---:|---|---|
-| Shakti Siva | Team Lead & ML Engineer | [@shakti-siva](https://github.com/shakti-siva) | Data pipeline, model training, repo maintenance |
+| Shakti Siva | Developer | [@shakti-siva](https://github.com/shakti-siva) | Complete end-to-end development: data pipeline, ML models, prediction engine, visualization, deployment |
 
-*(Add teammates here if this is collaborative)*
 
 ---
 
