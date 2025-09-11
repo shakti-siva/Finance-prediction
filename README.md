@@ -2,7 +2,7 @@
 cd D:/Projects/Finance-prediction
 
 # Create/replace README.md with the new content
-echo "# 📈 Finance Prediction System — 2025
+ # 📈 Finance Prediction System — 2025
 **AI-based stock and financial market forecasting** to analyze trends and predict future price movements with improved accuracy.
 
 ---
