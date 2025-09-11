@@ -20,7 +20,7 @@ Finance Prediction Platform that combines:
 ## 👥 Developer
 
 | Name | Role | GitHub | Responsibility |
-|---|---:|---|---|
+|-------|-------:|-------|-------|
 | Shakti Siva | Developer | [@shakti-siva](https://github.com/shakti-siva) | Complete end-to-end development: data pipeline, ML models, prediction engine, visualization, deployment |
 
 
