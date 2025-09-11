@@ -14,11 +14,6 @@ Visualization Dashboard: Charts for stock trends and model performance.
 
 Deployment Ready: Scripts for training, evaluation, and prediction.
 
-👥 Team Members
-Name	Role	GitHub	Responsibility
-Shakti Siva	Team Lead & ML Engineer	@shakti-siva
-	Data pipeline, model training, repo maintenance
-
 
 🛠️ Technology Stack
 
